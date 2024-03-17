@@ -1,6 +1,6 @@
 import fromPairs from 'lodash.frompairs'
 
-import { AppVersions, PlatformType } from '@diia-inhouse/types'
+import { AppVersions, PlatformType } from '@kant2002-diia-inhouse/types'
 
 import { ListValidationSchema, ObjectRule } from '../interfaces'
 import { ParameterValidation } from '../interfaces/schema'

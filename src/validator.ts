@@ -1,6 +1,6 @@
 import FastestValidator, { ValidationSchema } from 'fastest-validator'
 
-import { ErrorCode, ValidationError, ValidationErrorField } from '@diia-inhouse/errors'
+import { ErrorCode, ValidationError, ValidationErrorField } from '@kant2002-diia-inhouse/errors'
 
 import { Rule } from './interfaces/rule'
 import { BufferValidationRule, DateValidationRule, ObjectIdValidationRule, PhoneNumberValidationRule, VersionValidationRule } from './rules'
